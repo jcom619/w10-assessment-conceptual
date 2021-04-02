@@ -1,4 +1,53 @@
+
 No code editor, no python interpreter, no Google!
 Show what you know!
 
+###########################################
+accounts = {'no123':  100, 'no456': -22, 'no789': 444}
+
+def get_balance(acct):
+	return accounts[acct]
+
+bal = get_balance('no123')
+###########################################
+
 # Your answers here:
+
+#1 - 1. What will the value of bal be after the following code runs: (1 point)
+444
+
+#2 - 2. What will the value of bal be after the following code runs: (1 point)
+-22
+
+#3 - 3. What will the value of bal be after the following code runs: (1 point)
+...I think it's just stating the last index "$ 2", if it's "describing" indexes than "$ 3"
+
+#4 - 4. What will the value of bal be after the following code runs: (1 point)
+  
+#5 - 5. What is the data-type of the variable named accounts? (1 point)
+ 
+
+#6 - What is the data-type of the variable named accounts? (1 point)
+    
+ 
+#7 - 7. What is the value of num_flowers? (1 point) 
+  3
+
+#8 - 8. What is the resulting output? (1 point)
+  'rose', 'tulip', 'daisy'
+
+#9 - 9. What will the value of bouquet be after the following code runs: (1 point)
+  'rose'
+#10 -
+#11 -
+#12 -
+#13 -
+#14 -
+
+
+
+
+
+
+
+
